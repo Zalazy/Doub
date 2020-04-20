@@ -1,8 +1,3 @@
-# 一个逗比写的逗比脚本
-
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-[![GitHub stars](https://img.shields.io/github/stars/ToyoDAdoubi/doubi.svg?style=popout&label=Stars)](https://github.com/ToyoDAdoubi/doubi/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ToyoDAdoubi/doubi.svg?style=popout&label=Fork)](https://github.com/ToyoDAdoubi/doubi/fork)
 ## 脚本索引
 
 * [***代理相关***](#代理相关)
@@ -503,6 +498,3 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/pipesocks/insta
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/gogo.sh && chmod +x gogo.sh && bash gogo.sh
 ```
-
----
-Copyright (C) 2016-2018 Toyo <https://doub.io>
